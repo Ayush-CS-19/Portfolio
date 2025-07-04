@@ -51,18 +51,3 @@ This is my personal developer portfolio built with **React**, **Vite**, and **Th
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-## 💼 Features
-
-- Developed a modern, fully responsive developer portfolio using React, Vite, and Tailwind CSS.
-- Integrated interactive 3D models and animations with React Three Fiber and Drei to enhance user engagement.
-- Showcased multiple projects with live demos and source code links, improving project visibility.
-- Implemented a dynamic contact form with real-time validation and EmailJS integration for direct communication.
-- Optimized application performance and build speed using Vite and code-splitting techniques.
-- Ensured accessibility and cross-browser compatibility for a seamless user experience.
-- Utilized Framer Motion for smooth UI transitions and interactive effects.
-- Deployed the portfolio on Vercel with continuous integration for rapid updates.
-
----
