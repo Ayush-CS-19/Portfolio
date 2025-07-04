@@ -54,7 +54,7 @@ This project is licensed under the MIT License.
 
 ---
 
-## 💼 Resume Points
+## 💼 Features
 
 - Developed a modern, fully responsive developer portfolio using React, Vite, and Tailwind CSS.
 - Integrated interactive 3D models and animations with React Three Fiber and Drei to enhance user engagement.
@@ -63,6 +63,6 @@ This project is licensed under the MIT License.
 - Optimized application performance and build speed using Vite and code-splitting techniques.
 - Ensured accessibility and cross-browser compatibility for a seamless user experience.
 - Utilized Framer Motion for smooth UI transitions and interactive effects.
-- Deployed the portfolio on Vercel/Netlify with continuous integration for rapid updates.
+- Deployed the portfolio on Vercel with continuous integration for rapid updates.
 
 ---
