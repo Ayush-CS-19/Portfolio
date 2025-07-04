@@ -4,5 +4,14 @@
       "source": "/(.*)",
       "destination": "/index.html"
     }
+<<<<<<< HEAD
   ]
+=======
+  ],
+  "build": {
+    "env": {
+      "NPM_FLAGS": "--legacy-peer-deps"
+    }
+  }
+>>>>>>> b11dbf0160100e415ca7a4bc4e9aadef1070ff0d
 }
