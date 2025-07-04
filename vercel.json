@@ -5,9 +5,10 @@
       "destination": "/index.html"
     }
   ],
-  "build": {
-    "env": {
-      "NPM_FLAGS": "--legacy-peer-deps"
-    }
+  "buildCommand": false,
+  "ignoreCommand": "echo 'skip build'",
+  "outputDirectory": "dist",
+  "env": {
+    "NPM_FLAGS": "--legacy-peer-deps"
   }
 }
