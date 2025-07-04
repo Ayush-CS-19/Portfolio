@@ -1,14 +1,10 @@
 {
-  "rewrites": [
+  "version": 2,
+  "builds": [],
+  "routes": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "src": "/(.*)",
+      "dest": "/dist/$1"
     }
-  ],
-  "buildCommand": false,
-  "ignoreCommand": "echo 'skip build'",
-  "outputDirectory": "dist",
-  "env": {
-    "NPM_FLAGS": "--legacy-peer-deps"
-  }
+  ]
 }
