@@ -1,12 +1,68 @@
-# React + Vite
+# Ayush Kaushik | Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio built with **React**, **Vite**, and **Three.js** (via React Three Fiber). It showcases my projects, skills, and contact information in an interactive, visually engaging way.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Modern UI/UX**: Responsive design with Tailwind CSS and Framer Motion animations.
+- **3D Graphics**: Interactive 3D models using React Three Fiber and Drei.
+- **Project Showcase**: Detailed cards for each project with live demo and source code links.
+- **Contact Form**: EmailJS-powered contact form with validation and animated feedback.
+- **Performance**: Optimized with Vite for fast builds and hot module replacement.
+- **Accessibility**: Keyboard navigation and accessible color contrast.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Three.js](https://threejs.org/) + [React Three Fiber](https://docs.pmnd.rs/react-three-fiber/)
+- [@react-three/drei](https://github.com/pmndrs/drei)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [EmailJS](https://www.emailjs.com/)
+
+## 📦 Getting Started
+
+1. **Clone the repo:**
+   ```sh
+   git clone https://github.com/Ayush-CS-19/Portfolio.git
+   cd Portfolio
+   ```
+
+2. **Install dependencies:**
+   ```sh
+   npm install --legacy-peer-deps
+   ```
+
+3. **Run locally:**
+   ```sh
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```sh
+   npm run build
+   ```
+
+## 🌐 Live Demo
+
+[View Portfolio Live](https://portfolio-pied-eight-34.vercel.app/)
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 💼 Resume Points
+
+- Developed a modern, fully responsive developer portfolio using React, Vite, and Tailwind CSS.
+- Integrated interactive 3D models and animations with React Three Fiber and Drei to enhance user engagement.
+- Showcased multiple projects with live demos and source code links, improving project visibility.
+- Implemented a dynamic contact form with real-time validation and EmailJS integration for direct communication.
+- Optimized application performance and build speed using Vite and code-splitting techniques.
+- Ensured accessibility and cross-browser compatibility for a seamless user experience.
+- Utilized Framer Motion for smooth UI transitions and interactive effects.
+- Deployed the portfolio on Vercel/Netlify with continuous integration for rapid updates.
+
+---
